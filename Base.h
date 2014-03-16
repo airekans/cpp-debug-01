@@ -4,9 +4,8 @@
 class Base
 {
 protected:
-    int seq;
-    int* data;
-    double some_other_data;
+    unsigned u_data;
+    unsigned m_data;
 };
 
 #endif
