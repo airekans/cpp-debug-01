@@ -4,8 +4,7 @@
 class Base
 {
 protected:
-    int* data;
-    double some_other_data;
+    unsigned u_data;
 };
 
 #endif
