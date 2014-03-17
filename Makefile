@@ -1,6 +1,6 @@
 all: test_app
 
-test_app: App.o Child.o
+test_app: main.o Child.o
 	g++ -o $@ $^
 
 %.o: %.cpp
