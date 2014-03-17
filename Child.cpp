@@ -1,5 +1,6 @@
 #include "Child.h"
 #include "App.h"
+#include <cstdio>
 
 #include <cassert>
 

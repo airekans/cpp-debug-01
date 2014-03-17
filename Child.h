@@ -22,7 +22,7 @@ protected:
 class SuperChild : public Child
 {
 public:
-    SuperChild();
+    SuperChild(unsigned* d);
 };
 
 
